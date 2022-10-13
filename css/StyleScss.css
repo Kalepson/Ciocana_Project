@@ -1,1 +1,19 @@
-/*# sourceMappingURL=StyleScss.css.map */
+.container {
+  background-color: rgb(116, 116, 116);
+  font-size: 19px;
+}
+
+h1:hover + p {
+  color: blue;
+}
+
+.card {
+  margin-left: 80px;
+  margin-top: 100px;
+}
+
+.container__card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=StyleScss.css.map */
